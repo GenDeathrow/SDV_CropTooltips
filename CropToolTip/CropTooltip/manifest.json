@@ -6,7 +6,7 @@
    "UniqueID": "gengeathrow.croptooltip",
    "EntryDll": "CropToolTip.dll",
    "MinimumApiVersion": "2.0",
-   "UpdateKeys": [],
+   "UpdateKeys": ["GenDeathrow/SDV_CropTooltips"],
    	"Dependencies": [{
 		"UniqueID": "darkhax.bookcase",
 		"MinimumVersion": "0.7.2"
